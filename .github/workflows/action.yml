@@ -40,4 +40,4 @@ jobs:
         uses: EnricoMi/publish-unit-test-result-action/composite@v2
         if: always()
         with:
-          trx_files: "./TestResults/testresults.trx"
+          trx_files: "D:/a/freelancing2_new/freelancing2_new/src/XUnitExamples/TestResults/testresults.trx"
